@@ -1,4 +1,5 @@
-package kz.alash.advancedlab.lab1.fragment
+package advancedlab.lab1.fragment
+import advancedlab.lab1.viewModel.Lab1ViewModel
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -7,8 +8,7 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import kz.alash.advancedlab.R
-import kz.alash.advancedlab.lab1.viewModel.Lab1ViewModel
+import com.example.advancedlab.R
 
 class CounterFragment : Fragment() {
     private lateinit var viewModel: Lab1ViewModel

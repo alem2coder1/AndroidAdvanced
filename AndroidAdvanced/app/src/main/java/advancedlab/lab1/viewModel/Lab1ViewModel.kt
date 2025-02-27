@@ -1,4 +1,4 @@
-package kz.alash.advancedlab.lab1.viewModel
+package advancedlab.lab1.viewModel
 
 import androidx.lifecycle.ViewModel
 

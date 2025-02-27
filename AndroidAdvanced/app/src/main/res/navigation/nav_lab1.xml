@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/nav_counter"
-        android:name="kz.alash.advancedlab.lab1.fragment.CounterFragment"
+        android:name="advancedlab.lab1.fragment.CounterFragment"
         android:label="Counter"
         tools:layout="@layout/fragment_counter" />
 
     <fragment
         android:id="@+id/nav_info"
-        android:name="kz.alash.advancedlab.lab1.fragment.InfoFragment"
+        android:name="advancedlab.lab1.fragment.InfoFragment"
         android:label="Info"
         tools:layout="@layout/fragment_info" />
 </navigation>

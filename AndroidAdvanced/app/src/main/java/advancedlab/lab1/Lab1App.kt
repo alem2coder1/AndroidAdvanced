@@ -1,4 +1,4 @@
-package kz.alash.advancedlab.lab1
+package advancedlab.lab1
 
 import android.app.Application
 

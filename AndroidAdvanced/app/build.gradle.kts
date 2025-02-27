@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "kz.alash.advancedlab"
+    namespace = "com.example.advancedlab"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "kz.alash.advancedlab"
+        applicationId = "com.example.advancedlab"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

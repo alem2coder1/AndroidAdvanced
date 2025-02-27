@@ -1,11 +1,11 @@
-package kz.alash.advancedlab.lab1.fragment
+package advancedlab.lab1.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import kz.alash.advancedlab.R
+import com.example.advancedlab.R
 
 class InfoFragment : Fragment() {
     override fun onCreateView(
